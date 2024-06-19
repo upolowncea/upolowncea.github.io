@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://upolowncea.github.io/sitemap
+Sitemap: https://upolowncea.github.io/app/sitemap
+Sitemap: https://upolowncea.github.io/assets/sitemap
+Sitemap: https://upolowncea.github.io/css/sitemap
+Sitemap: https://upolowncea.github.io/includes/sitemap
+Sitemap: https://upolowncea.github.io/item/sitemap
+Sitemap: https://upolowncea.github.io/src/sitemap
